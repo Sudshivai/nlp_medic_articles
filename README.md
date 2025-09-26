@@ -2,10 +2,6 @@
 
 This project focuses on scraping medical articles from the MedlinePlus encyclopedia, processing the text data, and performing basic Natural Language Processing (NLP) analysis.
 
-## Team Members
-
-- Sudarshan Shivashankar (AI22BTECH11027)
-
 ## Objective
 
 The primary goal of this project is to apply web scraping and NLP techniques to a corpus of medical articles to extract insights and understand the characteristics of the text.
